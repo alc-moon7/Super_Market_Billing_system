@@ -1,0 +1,64 @@
+Product Code: 101
+Product Name: Detos
+Price: 20.000000
+Discount: 2.000000%
+Product Code: 202
+Product Name: Coke
+Price: 40.000000
+Discount: 5.000000%
+Product Code: 100
+Product Name: er
+Price: 34.000000
+Discount: 3.000000%
+Product Code: 101
+Product Name: Detos
+Price: 25.000000
+Discount: 5.000000%
+Product Code: 202
+Product Name: Coka Cola
+Price: 40.000000
+Discount: 10.000000%
+Product Code: 303
+Product Name: Pizza
+Price: 900.000000
+Discount: 10.000000%
+Product Code: 101
+Product Name: Detos
+Price: 20.000000
+Discount: 0.000000%
+Product Code: 101
+Product Name: coke
+Price: 35.000000
+Discount: 0.000000%
+Product Code: 101
+Product Name: Chips
+Price: 10.000000
+Discount: 0.000000%
+Product Code: 202
+Product Name: Coka cola
+Price: 35.000000
+Discount: 0.000000%
+Product Code: 101
+Product Name: Coke
+Price: 40.000000
+Discount: 1.000000%
+Product Code: 444
+Product Name: Detos
+Price: 20.000000
+Discount: 5.000000%
+Product Code: 101
+Product Name: detos
+Price: 20.000000
+Discount: 0.000000%
+Product Code: 101
+Product Name: detos
+Price: 20.000000
+Discount: 0.000000%
+Product Code: 101
+Product Name: Pran Potato
+Price: 12.000000
+Discount: 2.000000%
+Product Code: 202
+Product Name: Mojo
+Price: 25.000000
+Discount: 5.000000%

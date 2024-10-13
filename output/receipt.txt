@@ -1,0 +1,176 @@
+
+		  Receipt:
+
+		--------------
+  Product Name: Detos
+
+      Quantity: 5
+
+Price per item: 20
+
+  Total Amount: 98
+
+
+
+Thank you for shopping with us!
+
+
+		  Receipt:
+
+		--------------
+  Product Name: Pizza
+
+      Quantity: 3
+
+Price per item: 900
+
+  Total Amount: 2430
+
+
+
+Thank you for shopping with us!
+
+
+		  Receipt:
+
+		--------------
+  Product Name: Detos
+
+      Quantity: 5
+
+Price per item: 20
+
+  Total Amount: 100
+
+
+
+Thank you for shopping with us!
+
+
+		  Receipt:
+
+		--------------
+  Product Name: coke
+
+      Quantity: 1
+
+Price per item: 35
+
+  Total Amount: 35
+
+
+
+Thank you for shopping with us!
+
+
+		  Receipt:
+
+		--------------
+  Product Name: Chips
+
+      Quantity: 5
+
+Price per item: 10
+
+  Total Amount: 50
+
+
+
+Thank you for shopping with us!
+
+
+		  Receipt:
+
+		--------------
+  Product Name: Coke
+
+      Quantity: 5
+
+Price per item: 40
+
+  Total Amount: 198
+
+
+
+Thank you for shopping with us!
+
+
+		  Receipt:
+
+		--------------
+  Product Name: Detos
+
+      Quantity: 5
+
+Price per item: 20
+
+  Total Amount: 95
+
+
+
+Thank you for shopping with us!
+
+
+		  Receipt:
+
+		--------------
+  Product Name: detos
+
+      Quantity: 2
+
+Price per item: 20
+
+  Total Amount: 40
+
+
+
+Thank you for shopping with us!
+
+
+		  Receipt:
+
+		--------------
+  Product Name: detos
+
+      Quantity: 5
+
+Price per item: 20
+
+  Total Amount: 100
+
+
+
+Thank you for shopping with us!
+
+
+		  Receipt:
+
+		--------------
+  Product Name: Pran Potato
+
+      Quantity: 5
+
+Price per item: 12
+
+  Total Amount: 58.8
+
+
+
+Thank you for shopping with us!
+
+
+		  Receipt:
+
+		--------------
+  Product Name: Mojo
+
+      Quantity: 2
+
+Price per item: 25
+
+  Total Amount: 47.5
+
+
+
+Thank you for shopping with us!
+
