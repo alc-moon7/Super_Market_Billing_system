@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Super Market Billing System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Super Market Billing System</h1>
+            <div class="menu-bar">
+                <button class="menu-btn active" data-section="billing">Billing</button>
+                <button class="menu-btn" data-section="inventory">Inventory</button>
+                <button class="menu-btn" data-section="reports">Reports</button>
+                <button class="menu-btn" data-section="settings">Settings</button>
+            </div>
+        </header>
+
+        <main>
+            <!-- Billing Section -->
+            <section id="billing" class="content-section active">
+                <div class="terminal">
+                    <div class="terminal-header">
+                        <span class="terminal-title">Billing Terminal</span>
+                    </div>
+                    <div class="terminal-body" id="terminal-output">
+                        <p>> Welcome to Super Market Billing System</p>
+                        <p>> Select an option:</p>
+                        <p>> 1. Add Item</p>
+                        <p>> 2. Generate Bill</p>
+                        <p>> 3. View Cart</p>
+                        <p>> 4. Cancel Item</p>
+                        <p>> 5. Exit</p>
+                    </div>
+                    <div class="terminal-input">
+                        <span>> </span>
+                        <input type="text" id="command-input" placeholder="Enter option number...">
+                    </div>
+                </div>
+
+                <div class="visual-cart">
+                    <h3>Shopping Cart</h3>
+                    <div class="cart-items" id="cart-items">
+                        <!-- Cart items will be added here dynamically -->
+                    </div>
+                    <div class="cart-total">
+                        <p>Total: <span id="cart-total">$0.00</span></p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Other sections would go here -->
+        </main>
+
+        <footer>
+            <p>Super Market Billing System © 2023 | C++ Backend with Web Visualization</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
